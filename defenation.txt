@@ -10,3 +10,8 @@
 10. append f1.txt to any other file without overwrite
 11. count number of line
 12. print list of file having extenction .txt to another file
+13. palindrome number using while loop
+14. palindrome between two numbers using while loop
+15. find x^y using while loop
+16. prime number using while
+17. display first n prime numbers using while loop

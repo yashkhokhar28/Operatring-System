@@ -15,3 +15,6 @@
 15. find x^y using while loop
 16. prime number using while
 17. display first n prime numbers using while loop
+18. take string from user and print it
+19. print firstname,lastname,middlename and print in one line
+20. make sub string from string(default & user)
